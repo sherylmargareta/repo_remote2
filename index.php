@@ -9,5 +9,6 @@
 <body>
 	<h1><?php echo "Lorem Ipsum"; ?></h1>
 	<p><?php echo "Dolor Sit Amet"; ?></p>
+	<p>hari ini belajar git remote</p>
 </body>
 </html>
